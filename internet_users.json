@@ -1,0 +1,102 @@
+[
+  {
+    "country": "United States",
+    "internet_users": 312000000
+  },
+  {
+    "country": "China",
+    "internet_users": 1080000000
+  },
+  {
+    "country": "India",
+    "internet_users": 850000000
+  },
+  {
+    "country": "Japan",
+    "internet_users": 118000000
+  },
+  {
+    "country": "Germany",
+    "internet_users": 79000000
+  },
+  {
+    "country": "United Kingdom",
+    "internet_users": 66000000
+  },
+  {
+    "country": "France",
+    "internet_users": 62000000
+  },
+  {
+    "country": "Italy",
+    "internet_users": 56000000
+  },
+  {
+    "country": "Canada",
+    "internet_users": 36000000
+  },
+  {
+    "country": "Australia",
+    "internet_users": 24000000
+  },
+  {
+    "country": "Brazil",
+    "internet_users": 181000000
+  },
+  {
+    "country": "Russia",
+    "internet_users": 125000000
+  },
+  {
+    "country": "South Korea",
+    "internet_users": 50000000
+  },
+  {
+    "country": "Spain",
+    "internet_users": 44000000
+  },
+  {
+    "country": "Mexico",
+    "internet_users": 102000000
+  },
+  {
+    "country": "Indonesia",
+    "internet_users": 212000000
+  },
+  {
+    "country": "Saudi Arabia",
+    "internet_users": 34000000
+  },
+  {
+    "country": "Turkey",
+    "internet_users": 69000000
+  },
+  {
+    "country": "South Africa",
+    "internet_users": 43000000
+  },
+  {
+    "country": "Argentina",
+    "internet_users": 41000000
+  },
+  {
+    "country": "Netherlands",
+    "internet_users": 17000000
+  },
+  {
+    "country": "Switzerland",
+    "internet_users": 8500000
+  },
+  {
+    "country": "Sweden",
+    "internet_users": 10100000
+  },
+  {
+    "country": "Norway",
+    "internet_users": 5300000
+  },
+  {
+    "country": "Singapore",
+    "internet_users": 5600000
+  }
+]
